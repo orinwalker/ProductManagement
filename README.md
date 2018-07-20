@@ -1,6 +1,30 @@
-# Product Management
-# Demo Project for Angular 6
+# Product Management - Demo Project for Angular 6
 
+This is a demo/learning project for Angular 6
+
+To use this demo install Node.js and npm:
+    https://nodejs.org/en/download/
+
+Install Angular:
+    npm install -g @angular/cli
+
+This app demonstrates use of the following:
+* Components and Nested Components
+* Templates
+* Interpolation
+* Directives
+* Data Binding
+* Piples
+* Observable
+* Services
+* Dependency Injection
+* Data Retrieval via HTTP
+* Routing
+* Angular Modules
+* Command Line Interface (CLI)
+* Unit Testing
+
+## Project Info
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
