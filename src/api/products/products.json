@@ -46,7 +46,17 @@
     "releaseDate": "October 15, 2015",
     "description": "Standard two-button video game controller",
     "price": 35.95,
-    "starRating": 4.6,
+    "starRating": 4.1,
+    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+  },
+  {
+    "productId": 11,
+    "productName": "Super Awesome Controller",
+    "productCode": "GMG-0044",
+    "releaseDate": "October 1, 2018",
+    "description": "Delux two-button video game controller",
+    "price": 99.99,
+    "starRating": 4.9,
     "imageUrl": "https://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
   }
 ]
