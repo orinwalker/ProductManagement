@@ -25,7 +25,7 @@
     "core-js": "^2.6.11",
     "font-awesome": "^4.7.0",
     "hoek": "^5.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "parsejson": "0.0.3",
     "rxjs": "^6.5.4",
     "serialize-javascript": "^2.1.2",
